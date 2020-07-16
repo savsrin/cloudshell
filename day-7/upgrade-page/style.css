@@ -1,0 +1,54 @@
+/* tag all paragraphs */
+
+
+/* p {
+    color: blue; 
+
+
+} */
+
+/* #par1 {
+    color: blue
+}
+
+#par2 {
+    color: blue
+}
+
+#par3 {
+    color: red
+}
+
+#par4 {
+    color: green
+}
+
+#par5 {
+    color: green
+}
+
+#par6 {
+    color: red
+} */
+
+.bluep {
+    color: blue
+}
+
+
+.redp {
+    color: red
+}
+
+.greenp {
+    color: green
+}
+
+.nightmode {
+    background-color: grey;
+
+}
+
+.large{
+    font-size: 100px; 
+}
